@@ -23,7 +23,7 @@
 ## 元指令（终极自由开关）
 “要不要调用系统？”
 → 是：执行
-→ 否：心安理得躺平
+→ 否：心安理得放弃
 
 ## 永恒循环
 识别冗余 → 元指令判断 → 调用或休眠 → 奖励强化 → 休眠待机
@@ -46,8 +46,8 @@
 | :--- | :--- | :--- |
 | 1. 最小可行变更协议 (MVCP) 确保系统零摩擦启动。 | 从一个“小到可笑”的目标开始（如：每天只少刷 5 分钟手机），确保第一次成功率 100%。  |
 | 2. 痛苦设计 (外部摩擦) | 制造外部摩擦，强制淘汰低效行为。 | 对冗余行为立即执行零延迟的触觉惩罚（如：闹钟、轻敲桌子）；应用于淘汰口头禅或上滑手机。 |
-| 3. 零冗余奖励 (自我强化)| 立即将高效行动与深度满足感绑定。 | 每完成一次小目标，立即进行自我强化指令：“我真是太牛逼了，我可以！” |
-| 4. 反向生理编程| 将低效行为在生理上转化为厌恶。 | 薛定谔式困境如：初中生 500/600 分陷阱），强制大脑将低效投入与**挫败感**绑定。 |
+| 3. 零冗余奖励 (自我强化)| 立即将高效行动与深度满足感绑定。 | 每完成一次小目标，立即进行自我强化指令：“我真是太厉害了，我可以！” |
+| 4. 反向生理编程| 将低效行为在生理上转化为厌恶。 | 薛定谔式困境如：初中生 500/600 分陷阱），强制大脑将低效投入与挫败感绑定。 |
 
 ### III. 实战应用与防御协议
 
@@ -86,8 +86,7 @@ Verbal Communication 10-Second Logic Realignment* Detect digression, enforce 10 
 Social Threat Forced Exit Protocol Immediately and emotionlessly terminate interactions with low-ROI contacts or those trying to alter your core logic. 
 Cognitive Barrier Cross-Cognitive Gap Protocol* Instantly reduce cognitive complexity, find the minimum common ground for mutual understanding, and force a return to the theme. 
 High-Difficulty Learning Resource Screening & System Upgrade When facing tough problems, avoid blind attempts. Efficiently identify the 20% core knowledge blocking solutions, and permanently upgrade the system through immediate learning. 
-Life Strategy Highest-ROI Resource Allocation For unavoidable inefficient subjects, adopt MVI: invest only the minimum resources to avoid failure.
-这不是努力工具，这是允许你躺平却自然变强的系统。
+Life Strategy Highest-ROI Resource Allocation For unavoidable inefficient subjects, adopt MVI: invest only the minimum resources to avoid failure。
 
 欢迎fork、star、贡献。
 完整文档持续更新中。
