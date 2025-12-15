@@ -93,5 +93,6 @@ Life Strategy Highest-ROI Resource Allocation For unavoidable inefficient subjec
 
 “个人学习免费，商用（培训、课程、模板、书籍等）请邮件联系作者 · 取得授权：3082947483@qq.com”
 
-
-
+【核心声明】
+1.  唯一性：此仓库为本理论当前阶段的唯一官方文本与代码归档处。
+ 讨论指向：任何基于此理论的严肃讨论、质疑或合作意向，请务必以此仓库的议题。
