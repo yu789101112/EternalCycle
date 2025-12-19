@@ -90,6 +90,9 @@ Life Strategy Highest-ROI Resource Allocation For unavoidable inefficient subjec
 
 欢迎fork、star、贡献。
 完整文档持续更新中。
+· 如果想完整使用并持续更新，建议 git clone 本仓库。
+· 如果只需部分内容，可直接复制粘贴，但记得注明来源哦。
+· 用了觉得有帮助？欢迎在 Issues 里留言告诉我用途～
 
 “个人学习免费，商用（培训、课程、模板、书籍等）请邮件联系作者 · 取得授权：3082947483@qq.com”
 
