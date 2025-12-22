@@ -103,5 +103,4 @@ Life Strategy Highest-ROI Resource Allocation For unavoidable inefficient subjec
  讨论指向：任何基于此理论的严肃讨论、质疑或合作意向，请务必以此仓库的议题。
 
 
-<!-- Umami流量统计（仅统计访问，无隐私数据） -->
-<script async defer data-website-id="22579f02-670b-4065-80a3-17a3bdfa" src="https://cloud.umami.is/script.js"></script>
+
